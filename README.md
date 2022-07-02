@@ -70,7 +70,7 @@ For Visual Studio 2017 :
 
 ## Build
 
-A build with the Ninja generator (`-G "Ninja"` ) is prefered for speed-up build times.
+A build with the Ninja generator (`-G "Ninja"` ) is prefered to speed-up build times.
 
 The generic steps to build the SDK are:
 
